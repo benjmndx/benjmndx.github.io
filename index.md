@@ -5,9 +5,11 @@
 - TL;DR: <a href="" target="_blank">here</a>
 
 
-- **Gen Z Kids Apparently Don't Understand How File Systems Work**
-  - Article: <a href="https://futurism.com/the-byte/gen-z-kids-file-systems" target="_blank">https://futurism.com/the-byte/gen-z-kids-file-systems</a>
-  - TL;DR: Summary
+**Gen Z Kids Apparently Don't Understand How File Systems Work**
+- Article: <a href="https://futurism.com/the-byte/gen-z-kids-file-systems" target="_blank">https://futurism.com/the-byte/gen-z-kids-file-systems</a>
+- TL;DR: <a href="" target="_blank">here</a>
+
+
 
 
 #### Generation Z Says They Work the Hardest, But Only When They Want To
