@@ -1,3 +1,10 @@
+---
+title: Your article name
+intro:
+redirect_from:
+  - /articles/older-outdated-article-name/
+---
+
 ## Hello
 
 # H1
