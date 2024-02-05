@@ -1,4 +1,4 @@
-#The Challenge with Gen Z | Simon Sinek
+# The Challenge with Gen Z | Simon Sinek
 *https://www.youtube.com/watch?v=GON5fNGoDPk*
 
 You are in a very difficult and uncomfortable position because I think leadership is more difficult now than it has ever been. You're dealing with human anxiety, uncertainty, ambition, and egos. Especially young people who think they know what they want and don't, who have certainty and are very outspoken, and do not mind going around their boss's boss to come to you. You know, so you're going to be dealing with a 19-year-old saying, "Why am I not given this?" and you're like, "I don't know, where do you work?"
@@ -14,12 +14,11 @@ Some of the human skills that are underappreciated and undertrained in this day 
 But the point is, I don't fault them; they lack the skills. And so I think there's a huge opportunity for an organization like yours to teach these young people coping mechanisms, stress relief, the biggest one being how to ask for help. That is the single biggest thing that is lacking in every generation, which is, "I am struggling, can you help me?" Whether it's personal or professional, that is absolutely lacking. And so we do unhealthy things to help compensate, like social media and other things.
 
  
-Key points:
-
-1.	Young Employees' Boldness: Young workers are not afraid to bypass hierarchy and directly approach top management with their demands, showing a lack of fear in questioning their roles or the recognition they believe they deserve.
-2.	Fear of Confrontation vs. Quitting: Despite their boldness in some areas, many young employees avoid direct confrontation, particularly when it comes to negotiating raises or expressing dissatisfaction. Instead of addressing issues, they may choose to quit.
-3.	Lack of Coping Mechanisms: The younger generation is less equipped to handle stress compared to their predecessors, leading to high levels of anxiety and a tendency to avoid confrontation.
-4.	Communication and Negotiation Skills: There's a notable gap in effective communication and negotiation skills among young workers. For instance, they might demand unreasonable raises without understanding how to engage in a constructive dialogue about their career path and compensation.
-5.	Training Opportunities: Companies should invest in training that enhances 'human skills', such as effective communication, confrontation, feedback exchange, and negotiation, moving away from the term 'soft skills'.
-6.	Asking for Help: A significant issue identified is the general reluctance across all generations to seek help when facing challenges, whether personal or professional. This as a critical area for development, suggesting that teaching young employees how to ask for help could address many underlying issues.
+### Key points
+1. **Young Employees' Boldness**: Young workers are not afraid to bypass hierarchy and directly approach top management with their demands, showing a lack of fear in questioning their roles or the recognition they believe they deserve.
+2. **Fear of Confrontation vs. Quitting**: Despite their boldness in some areas, many young employees avoid direct confrontation, particularly when it comes to negotiating raises or expressing dissatisfaction. Instead of addressing issues, they may choose to quit.
+3. **Lack of Coping Mechanisms**: The younger generation is less equipped to handle stress compared to their predecessors, leading to high levels of anxiety and a tendency to avoid confrontation.
+4. **Communication and Negotiation Skills**: There's a notable gap in effective communication and negotiation skills among young workers. For instance, they might demand unreasonable raises without understanding how to engage in a constructive dialogue about their career path and compensation.
+5. **Training Opportunities**: Companies should invest in training that enhances 'human skills', such as effective communication, confrontation, feedback exchange, and negotiation, moving away from the term 'soft skills'.
+6. **Asking for Help**: A significant issue identified is the general reluctance across all generations to seek help when facing challenges, whether personal or professional. This as a critical area for development, suggesting that teaching young employees how to ask for help could address many underlying issues.
 
