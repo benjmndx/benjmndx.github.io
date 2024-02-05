@@ -2,7 +2,7 @@
 
 - **Generation Z Says They Work the Hardest, But Only When They Want To**
   - Article: <a href="https://www.shrm.org/topics-tools/news/employee-relations/generation-z-says-work-hardest-want-to" target="_blank">https://www.shrm.org/topics-tools/news/employee-relations/generation-z-says-work-hardest-want-to</a>
-  - TL;DR: <a href="" target="_blank">*Too long; didn't read summary*</a>
+    - <a href="" target="_blank">TL;DR</a>
 
 
 - **Gen Z Kids Apparently Don't Understand How File Systems Work**
