@@ -1,8 +1,33 @@
 ## Required reading
+# Generation Z Says They Work the Hardest, But Only When They Want To
+*Description here*
+- Article: <a href="https://www.shrm.org/topics-tools/news/employee-relations/generation-z-says-work-hardest-want-to" target="_blank">https://www.shrm.org/topics-tools/news/employee-relations/generation-z-says-work-hardest-want-to</a>
+- TLDR: Summary
+
+# Gen Z Kids Apparently Don't Understand How File Systems Work
+*THEY SEE IT LIKE ONE BUCKET, AND EVERYTHING'S IN THE BUCKET*
+- Article: <a href="https://futurism.com/the-byte/gen-z-kids-file-systems" target="_blank">https://futurism.com/the-byte/gen-z-kids-file-systems</a>
+- TLDR: SUmmary
+
+# Title
+*Description here*
+- Article:
+- TLDR:
+
 
 <a href="https://futurism.com/the-byte/gen-z-kids-file-systems" target="_blank">Gen Z Kids Apparently Don't Understand How File Systems Work</a> | *Dan Robitzski*
 > "THEY SEE IT LIKE ONE BUCKET, AND EVERYTHING'S IN THE BUCKET."
 > Second line?
+>
+> •	Generation Z Says They Work the Hardest, But Only When They Want To
+https://www.shrm.org/topics-tools/news/employee-relations/generation-z-says-work-hardest-want-to
+•	GEN Z KIDS APPARENTLY DON'T UNDERSTAND HOW FILE SYSTEMS WORK
+https://futurism.com/the-byte/gen-z-kids-file-systems
+o	File not found
+https://www.theverge.com/22684730/students-file-folder-directory-structure-education-gen-z
+•	L&D pros, do you know how Gen Z wants to learn?
+https://learning.linkedin.com/content/dam/me/learning/en-us/pdfs/LinkedIn-L&D-Gen-Z-Infographic-Learner-Engagement-Playbook.pdf
+
 
 | Month    | Savings |
 | -------- | ------- |
