@@ -1,10 +1,10 @@
 ### Required reading
 
-- <a href="https://www.shrm.org/topics-tools/news/employee-relations/generation-z-says-work-hardest-want-to" target="_blank">**https://www.shrm.org/topics-tools/news/employee-relations/generation-z-says-work-hardest-want-to**</a>
+- <a href="https://www.shrm.org/topics-tools/news/employee-relations/generation-z-says-work-hardest-want-to" target="_blank">**Generation Z Says They Work the Hardest, But Only When They Want To**</a>
   - TL;DR: Summary
 
 
-- <a href="https://futurism.com/the-byte/gen-z-kids-file-systems" target="_blank">https://futurism.com/the-byte/gen-z-kids-file-systems</a>
+- <a href="https://futurism.com/the-byte/gen-z-kids-file-systems" target="_blank">**Gen Z Kids Apparently Don't Understand How File Systems Work**</a>
   - TL;DR: Summary
 
 
