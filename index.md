@@ -11,7 +11,9 @@
 
 ## Title
 *Description here*
-| Article | TLDR 
+| Article | TLDR |
+| -------- | ------- |
+
 - Article:
 - TLDR:
 
