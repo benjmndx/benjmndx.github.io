@@ -13,14 +13,18 @@
 <table>
   <tbody>
     <tr>
-      <th>Tables</th>
-      <th align="center">Are</th>
-      <th align="right">Cool</th>
+      <td>
+      <strong>Generation Z Says They Work the Hardest, But Only When They Want To</strong>
+        <ul>
+          <li>Article: <a href="https://www.shrm.org/topics-tools/news/employee-relations/generation-z-says-work-hardest-want-to" target="_blank">https://www.shrm.org/topics-tools/news/employee-relations/generation-z-says-work-hardest-want-to</a></li>
+          <li>TL;DR: <a href="" target="_blank">here</a></li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>col 3 is</td>
-      <td align="center">right-aligned</td>
-      <td align="right">$1600</td>
+      <td>
+        <strong>Title</strong>
+      </td>
     </tr>
   </tbody>
 </table>
