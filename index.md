@@ -13,6 +13,9 @@
 <table>
   <tbody>
     <tr>
+      <th>Required reading</th>
+    </tr>
+    <tr>
       <td>
       <strong>Generation Z Says They Work the Hardest, But Only When They Want To</strong>
         <ul>
