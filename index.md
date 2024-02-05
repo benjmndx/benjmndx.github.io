@@ -1,8 +1,14 @@
 ## Required reading
-[Gen Z Kids Apparently Don't Understand How File Systems Work | Dan Robitzski](https://futurism.com/the-byte/gen-z-kids-file-systems)
-<a href="https://futurism.com/the-byte/gen-z-kids-file-systems" target="_blank">Gen Z Kids Apparently Don't Understand How File Systems Work | Dan Robitzski</a>
 
+<a href="https://futurism.com/the-byte/gen-z-kids-file-systems" target="_blank">Gen Z Kids Apparently Don't Understand How File Systems Work</a> | *Dan Robitzski*
+> "THEY SEE IT LIKE ONE BUCKET, AND EVERYTHING'S IN THE BUCKET."
+> Second line?
 
+| Month    | Savings |
+| -------- | ------- |
+| January  | $250    |
+| February | $80     |
+| March    | $420    |
 
 ### H3
 **bold text**
