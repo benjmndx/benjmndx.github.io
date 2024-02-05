@@ -7,7 +7,7 @@
 **Gen Z Kids Apparently Don't Understand How File Systems Work**
 - <a href="https://futurism.com/the-byte/gen-z-kids-file-systems" target="_blank">https://futurism.com/the-byte/gen-z-kids-file-systems</a>
 - <a href="" target="_blank">TL;DR</a>
-&nbsp;
+
 &nbsp;
 ## Recommended reading
 **Generation Z Says They Work the Hardest, But Only When They Want To**
