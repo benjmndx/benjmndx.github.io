@@ -1,4 +1,14 @@
-## Required reading
+### Required reading
+
+- **Generation Z Says They Work the Hardest, But Only When They Want To**
+  - Article: <a href="https://www.shrm.org/topics-tools/news/employee-relations/generation-z-says-work-hardest-want-to" target="_blank">https://www.shrm.org/topics-tools/news/employee-relations/generation-z-says-work-hardest-want-to</a>
+  - TLDR: Summary
+
+- **Gen Z Kids Apparently Don't Understand How File Systems Work**
+  - Article: <a href="https://futurism.com/the-byte/gen-z-kids-file-systems" target="_blank">https://futurism.com/the-byte/gen-z-kids-file-systems</a>
+  - TLDR: SUmmary
+
+
 #### Generation Z Says They Work the Hardest, But Only When They Want To
 *Description here*
 - Article: <a href="https://www.shrm.org/topics-tools/news/employee-relations/generation-z-says-work-hardest-want-to" target="_blank">https://www.shrm.org/topics-tools/news/employee-relations/generation-z-says-work-hardest-want-to</a>
@@ -9,10 +19,11 @@
 - Article: <a href="https://futurism.com/the-byte/gen-z-kids-file-systems" target="_blank">https://futurism.com/the-byte/gen-z-kids-file-systems</a>
 - TLDR: SUmmary
 
-#### Title
-*Description here*
-| Article | TLDR |
-| -------- | ------- |
+
+
+| Gen Z Kids Apparently Don't Understand How File Systems Work |
+| ------ |
+|   *Description here* |   
 
 - Article:
 - TLDR:
