@@ -5,7 +5,9 @@
 ### H3
 **bold text**
 *italicized text*
+
 > blockquote
+
 1. First item
 2. Second item
 3. Third item
@@ -17,4 +19,6 @@
 
 ---
 Link	[title](https://www.example.com)
+[File A](article1_tldr.md)
+
 Image	![alt text](image.jpg)
