@@ -1,14 +1,9 @@
----
-title: Your article name
-intro:
-redirect_from:
-  - /articles/older-outdated-article-name/
----
+## Required reading
+[Gen Z Kids Apparently Don't Understand How File Systems Work | Dan Robitzski](https://futurism.com/the-byte/gen-z-kids-file-systems)
+<a href="https://futurism.com/the-byte/gen-z-kids-file-systems" target="_blank">Gen Z Kids Apparently Don't Understand How File Systems Work | Dan Robitzski</a>
 
-## Hello 2
 
-# H1
-## H2
+
 ### H3
 **bold text**
 *italicized text*
