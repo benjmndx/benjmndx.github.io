@@ -38,9 +38,8 @@
 > </details>
 
 <br>
-<br>
 
-## Views from Gen Z
+# Views from Gen Z
 
 ### A 16-Year-Old Explains 10 Things You Need to Know About Generation Z
 > Article: <a href="https://www.shrm.org/topics-tools/news/hr-magazine/16-year-old-explains-10-things-need-to-know-generation-z" target="_blank">https://www.shrm.org/topics-tools/news/hr-magazine/16-year-old-explains-10-things-need-to-know-generation-z</a></a><br>
