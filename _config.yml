@@ -1,5 +1,5 @@
 # Site settings
 title: Generation Z Content
 
-# Build settings
-markdown: kramdown
+# Build settings md: kramdown/GFM
+markdown: GFM
