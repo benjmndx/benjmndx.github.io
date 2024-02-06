@@ -1,1 +1,5 @@
+# Site settings
 title: Generation Z Content
+
+# Build settings
+markdown: kramdown
