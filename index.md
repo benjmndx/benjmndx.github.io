@@ -1,7 +1,12 @@
 ![hero image of office learning](assets/images/hero.jpg)
+#### On this page
+* [Required reading](Required-reading)
+* [Views from Gen Z](Views-from-Gen-Z)
+* [Recommended reading](Recommended-reading)
+
 # Required reading
 
-### Gen Z Kids Apparently Don't Understand How File Systems Work!
+### *Gen Z Kids Apparently Don't Understand How File Systems Work!*
 > Article: <a href="https://futurism.com/the-byte/gen-z-kids-file-systems" target="_blank">https://futurism.com/the-byte/gen-z-kids-file-systems</a><br>
 > <br>
 > The digital landscape is transforming with Gen Z's unique approach to technology, particularly their misunderstanding of traditional file systems, favoring search functions over hierarchical organization.  *If you want more detail about this, check out <a href="https://www.theverge.com/22684730/students-file-folder-directory-structure-education-gen-z" target="_blank">the article</a>* that inspired this one.
@@ -17,7 +22,7 @@
 
 <br>
 
-### Generation Z Says They Work the Hardest, But Only When They Want To
+### *Generation Z Says They Work the Hardest, But Only When They Want To*
 > Article: <a href="https://www.shrm.org/topics-tools/news/employee-relations/generation-z-says-work-hardest-want-to" target="_blank">https://www.shrm.org/topics-tools/news/employee-relations/generation-z-says-work-hardest-want-to</a><br>
 > <br>
 > Discover how the 'always connected' generation views themselves as the most hardworking generation and how they are reshaping workplace expectations with a blend of hard work, digital savvy, and a non-negotiable demand for work-life balance.
@@ -59,7 +64,7 @@
 <br>
 <br>
 
-## Recommended reading
+# Recommended reading
 
 ### What is Gen Z?
 > Article: <a href="https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-gen-z" target="_blank">https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-gen-z</a><br>
