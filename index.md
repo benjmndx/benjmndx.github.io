@@ -5,50 +5,19 @@
 > Useful information that users should know, even when skimming content.<br><br>
 > [<kbd> <br> Full article <br> </kbd>](https://link-url-here.org) [<kbd> <br> Summary <br> </kbd>](https://link-url-here.org)
 
-### Generation Z Says They Work the Hardest, But Only When They Want To
-> Useful information that users should know, even when skimming content.<br><br>
-> [<kbd> <br> Full article <br> </kbd>](https://link-url-here.org) [<kbd> <br> Summary <br> </kbd>](https://link-url-here.org)
-
 ### Gen Z Kids Apparently Don't Understand How File Systems Work!
-> https://futurism.com/the-byte/gen-z-kids-file-systems<br>
+> <a href="https://futurism.com/the-byte/gen-z-kids-file-systems" target="_blank">https://futurism.com/the-byte/gen-z-kids-file-systems</a><br>
 > <br>
-> The digital landscape is transforming with Gen Z's unique approach to technology, particularly their misunderstanding of traditional file systems, favoring search functions over hierarchical organization.<br>
+> The digital landscape is transforming with Gen Z's unique approach to technology, particularly their misunderstanding of traditional file systems, favoring search functions over hierarchical organization.  *If you want more detail about this, check out <a href="https://www.theverge.com/22684730/students-file-folder-directory-structure-education-gen-z" target="_blank">the article</a>* that inspired this one.
 > <details>
->  <summary>Summary</summary>
->  
-> 1. **Digital Natives\' Approach:** Students accustomed to search
->    functions and cloud storage lack traditional understanding of file
->    directories, impacting their ability to manage files in STEM
->    applications.
+>  <summary><ins>TL;DR Summary</ins></summary>
 >
-> 2.  **Generational Shift:** The gap in digital literacy between students
->    and educators, who are used to hierarchical file structures, is
->    notable and growing.
->
-> 3.  **Educational Challenges:** STEM educators are finding it necessary
->    to teach computer fundamentals alongside their subject matter to
->    bridge this gap.
->
-> 4.  **Adapting Teaching Methods:** Some educators are incorporating
->    basic computer skills, like directory structure understanding, into
->    their curriculum, using various analogies and methods to convey
->    these concepts.
->
-> 5.  **Rethinking File Management:** There\'s a growing realization that
->    traditional file management methods may not be intuitive for modern
->    students, prompting a reevaluation of teaching and organizational
->    strategies.
->
-> 6.  **The Role of L&D Professionals:** This shift presents an
->    opportunity for Learning and Development professionals to lead in
->    creating and implementing new educational strategies that align with
->    the digital behaviors and preferences of current and future
->     generations.
+> 1. **Gen Z's Digital Fluency**: Gen Z's preference for search functions over navigating traditional file systems highlights a shift in digital literacy.
+> 2. **Impact on Education**: Educators are incorporating fundamental computer skills into STEM curriculums to address gaps in students' understanding of file management.
+> 3. **Changing Learning Environments**: The need to adapt teaching methods to accommodate Gen Z's tech habits, using analogies like a "laundry basket" of files to explain concepts.
+> 4. **Opportunity for Innovation**: L&D professionals have a unique opportunity to lead in developing educational strategies that integrate traditional file management skills with intuitive digital navigation.
+> 5. **Future Workforce Skills**: Emphasizing the importance of equipping students with a blend of structured and intuitive tech skills to meet the demands of future workplaces.
 > </details>
->
-> *If you want more detail about this, check out the article that inspired this one: https://www.theverge.com/22684730/students-file-folder-directory-structure-education-gen-z*
-> <br>
-> 
 
 
 
