@@ -9,12 +9,26 @@
 ### *L&D pros, do you know how Gen Z wants to learn?*
 > **Inforgraphic**: <a href="https://learning.linkedin.com/content/dam/me/learning/en-us/pdfs/LinkedIn-L&D-Gen-Z-Infographic-Learner-Engagement-Playbook.pdf" target="_blank">https://learning.linkedin.com/content/dam/me/learning/en-us/pdfs/LinkedIn-L&D-Gen-Z-Infographic-Learner-Engagement-Playbook.pdf</a><br>
 > <br>
-> 
+>  LinkedIn Learning asked 2,000 Gen Z workers what they want from a learning program. Then, they asked 400 L&D professionals what they thought Gen Z really wants. As you might imagine, they were not perfectly aligned.
+> <details>
+>  <summary><kbd> <br> Summary <br> </kbd></summary>
+>
+> 1. **Monetary Motivation**: A significant portion of Gen Z is driven to learn for salary increases or bonuses, a factor underestimated by many L&D professionals.
+> 2. **Career Advancement**: Gen Z prioritizes learning for promotion opportunities, suggesting a focus on profiling successful career advancements could inspire learning.
+> 3. **Overcoming Fear**: Addressing Gen Z's fear of making a bad impression through courses on soft skills can enhance their learning experience.
+> 4. **Skill Preferences**: While Gen Z values hard skills, L&D professionals believe soft skills require more emphasis, indicating a need to highlight the importance of both.
+> 5. **Learning Independence**: Gen Z prefers a self-directed approach to learning, contrasting with L&D professionals' lesser focus on offering such autonomy.
+> 6. **Adaptation by L&D**: A majority of L&D professionals acknowledge the need to adjust their programs to better accommodate Gen Z's preferences, with emphasis on on-demand learning, customized paths, and support for self-directed learning.
+> </details>
+
+
 
 ### *Gen Z Kids Apparently Don't Understand How File Systems Work!*
 > **Article**: <a href="https://futurism.com/the-byte/gen-z-kids-file-systems" target="_blank">https://futurism.com/the-byte/gen-z-kids-file-systems</a><br>
 > <br>
-> The digital landscape is transforming with Gen Z's unique approach to technology, particularly their misunderstanding of traditional file systems, favoring search functions over hierarchical organization.  *If you want more detail about this, check out <a href="https://www.theverge.com/22684730/students-file-folder-directory-structure-education-gen-z" target="_blank">the article</a>* that inspired this one.
+> The digital landscape is transforming with Gen Z's unique approach to technology, particularly their misunderstanding of traditional file systems, favoring search functions over hierarchical organization.<br>
+> <br>
+> *If you want further detail, check out <a href="https://www.theverge.com/22684730/students-file-folder-directory-structure-education-gen-z" target="_blank">the article</a>* that inspired this one.*
 > <details>
 >  <summary><kbd> <br> Summary <br> </kbd></summary>
 >
@@ -37,21 +51,6 @@
 > 3. The importance of microlearning, interactive content, and mobile-friendly formats.
 > 4. Addressing Gen Z's heightened stress levels and desire for meaningful work through personalized learning paths.
 > 5. Strategies for engaging Gen Z employees to foster retention and organizational growth.
-> </details>
-
-### *Generation Z Says They Work the Hardest, But Only When They Want To*
-> **Article**: <a href="https://www.shrm.org/topics-tools/news/employee-relations/generation-z-says-work-hardest-want-to" target="_blank">https://www.shrm.org/topics-tools/news/employee-relations/generation-z-says-work-hardest-want-to</a><br>
-> <br>
-> Discover how the 'always connected' generation views themselves as the most hardworking generation and how they are reshaping workplace expectations with a blend of hard work, digital savvy, and a non-negotiable demand for work-life balance.
-> <details>
->  <summary><kbd> <br> Summary <br> </kbd></summary>
->
-> 1. Generation Z are committed, but their commitment comes with a catch: they refuse to work outside their preferred times.
-> 2. Despite being digital natives, Gen Z values face-to-face interactions at work, challenging the stereotype of the antisocial screen addict.
-> 3. The study, based on a global survey of over 3,000 Gen Z members, reveals their high self-assessment of work ethic, their unique work preferences, and the significant role of managers in addressing their work-related anxieties.
-> 4. Gen Z's work values include a demand for control over their schedules, a rejection of back-to-back shifts, and a preference for direct communication with their teams and managers.
-> 5. Their confidence is juxtaposed with anxiety about work expectations and success, with a notable portion feeling unprepared by their education for the workplace.
-> 6. This generation's blend of digital fluency, demand for flexibility, and work-related anxieties presents a unique challenge and opportunity for L&D professionals to tailor strategies that effectively engage and support them.
 > </details>
 
 <br>
@@ -109,6 +108,21 @@
 > 4. Gen Z values inclusivity, individual expression, and is highly concerned with social and environmental issues, expecting brands to align with these values.
 > 5. Their consumer behavior reflects a preference for access over ownership, a focus on experiences, and a demand for ethical and sustainable practices from companies.
 > 6. Fashion trends among Gen Z are marked by a mix of expressive, ever-changing styles and a resurgence of vintage and thrifted items, balancing their desire for uniqueness with sustainability concerns.
+> </details>
+
+### *Generation Z Says They Work the Hardest, But Only When They Want To*
+> **Article**: <a href="https://www.shrm.org/topics-tools/news/employee-relations/generation-z-says-work-hardest-want-to" target="_blank">https://www.shrm.org/topics-tools/news/employee-relations/generation-z-says-work-hardest-want-to</a><br>
+> <br>
+> Discover how the 'always connected' generation views themselves as the most hardworking generation and how they are reshaping workplace expectations with a blend of hard work, digital savvy, and a non-negotiable demand for work-life balance.
+> <details>
+>  <summary><kbd> <br> Summary <br> </kbd></summary>
+>
+> 1. Generation Z are committed, but their commitment comes with a catch: they refuse to work outside their preferred times.
+> 2. Despite being digital natives, Gen Z values face-to-face interactions at work, challenging the stereotype of the antisocial screen addict.
+> 3. The study, based on a global survey of over 3,000 Gen Z members, reveals their high self-assessment of work ethic, their unique work preferences, and the significant role of managers in addressing their work-related anxieties.
+> 4. Gen Z's work values include a demand for control over their schedules, a rejection of back-to-back shifts, and a preference for direct communication with their teams and managers.
+> 5. Their confidence is juxtaposed with anxiety about work expectations and success, with a notable portion feeling unprepared by their education for the workplace.
+> 6. This generation's blend of digital fluency, demand for flexibility, and work-related anxieties presents a unique challenge and opportunity for L&D professionals to tailor strategies that effectively engage and support them.
 > </details>
 
 ### *What makes Gen Z tick?*
