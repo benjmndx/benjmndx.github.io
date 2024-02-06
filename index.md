@@ -6,8 +6,13 @@
 
 # Required reading
 
+### *L&D pros, do you know how Gen Z wants to learn?*
+> **Inforgraphic**: <a href="https://learning.linkedin.com/content/dam/me/learning/en-us/pdfs/LinkedIn-L&D-Gen-Z-Infographic-Learner-Engagement-Playbook.pdf" target="_blank">https://learning.linkedin.com/content/dam/me/learning/en-us/pdfs/LinkedIn-L&D-Gen-Z-Infographic-Learner-Engagement-Playbook.pdf</a><br>
+> <br>
+> 
+
 ### *Gen Z Kids Apparently Don't Understand How File Systems Work!*
-> Article: <a href="https://futurism.com/the-byte/gen-z-kids-file-systems" target="_blank">https://futurism.com/the-byte/gen-z-kids-file-systems</a><br>
+> **Article**: <a href="https://futurism.com/the-byte/gen-z-kids-file-systems" target="_blank">https://futurism.com/the-byte/gen-z-kids-file-systems</a><br>
 > <br>
 > The digital landscape is transforming with Gen Z's unique approach to technology, particularly their misunderstanding of traditional file systems, favoring search functions over hierarchical organization.  *If you want more detail about this, check out <a href="https://www.theverge.com/22684730/students-file-folder-directory-structure-education-gen-z" target="_blank">the article</a>* that inspired this one.
 > <details>
@@ -21,7 +26,7 @@
 > </details>
 
 ### *L&D for Gen Z: Meeting the Needs of the Newest Generation*
-> Article: <a href="https://trainingindustry.com/articles/content-development/ld-for-gen-z-meeting-the-needs-of-the-newest-generation/" target="_blank">https://trainingindustry.com/articles/content-development/ld-for-gen-z-meeting-the-needs-of-the-newest-generation/</a><br>
+> **Article**: <a href="https://trainingindustry.com/articles/content-development/ld-for-gen-z-meeting-the-needs-of-the-newest-generation/" target="_blank">https://trainingindustry.com/articles/content-development/ld-for-gen-z-meeting-the-needs-of-the-newest-generation/</a><br>
 > <br>
 > Dive into the Future of Learning: How Gen Z is Redefining Workplace Training and Development. This article hints at the need for organizations to rethink traditional training methods and adopt innovative strategies.
 > <details>
@@ -35,7 +40,7 @@
 > </details>
 
 ### *Generation Z Says They Work the Hardest, But Only When They Want To*
-> Article: <a href="https://www.shrm.org/topics-tools/news/employee-relations/generation-z-says-work-hardest-want-to" target="_blank">https://www.shrm.org/topics-tools/news/employee-relations/generation-z-says-work-hardest-want-to</a><br>
+> **Article**: <a href="https://www.shrm.org/topics-tools/news/employee-relations/generation-z-says-work-hardest-want-to" target="_blank">https://www.shrm.org/topics-tools/news/employee-relations/generation-z-says-work-hardest-want-to</a><br>
 > <br>
 > Discover how the 'always connected' generation views themselves as the most hardworking generation and how they are reshaping workplace expectations with a blend of hard work, digital savvy, and a non-negotiable demand for work-life balance.
 > <details>
@@ -54,7 +59,7 @@
 # Views from Gen Z
 
 ### *Gen Z in the workplace*
-> Article: <a href="https://www.kornferry.com/insights/featured-topics/future-of-work/gen-z-in-the-workplace" target="_blank">https://www.kornferry.com/insights/featured-topics/future-of-work/gen-z-in-the-workplace</a><br>
+> **Article**: <a href="https://www.kornferry.com/insights/featured-topics/future-of-work/gen-z-in-the-workplace" target="_blank">https://www.kornferry.com/insights/featured-topics/future-of-work/gen-z-in-the-workplace</a><br>
 > <br>
 > Let this Gen Z tell you the secrets to unlocking the potential of your Gen Z workforce by embracing their unique values—purpose, impact, and flexibility are key. Dive into the transformative insights that will shape the future of your workplace.
 > <details>
@@ -69,7 +74,7 @@
 > </details>
 
 ### *A 16-Year-Old Explains 10 Things You Need to Know About Generation Z*
-> Article: <a href="https://www.shrm.org/topics-tools/news/hr-magazine/16-year-old-explains-10-things-need-to-know-generation-z" target="_blank">https://www.shrm.org/topics-tools/news/hr-magazine/16-year-old-explains-10-things-need-to-know-generation-z</a><br>
+> **Article**: <a href="https://www.shrm.org/topics-tools/news/hr-magazine/16-year-old-explains-10-things-need-to-know-generation-z" target="_blank">https://www.shrm.org/topics-tools/news/hr-magazine/16-year-old-explains-10-things-need-to-know-generation-z</a><br>
 > <br>
 > Discover how Generation Z, a generation shaped by significant global events and the digital age, is redefining the future of work, as written by a Gen Z.
 > <details>
@@ -92,7 +97,7 @@
 # Recommended reading
 
 ### *What is Gen Z?*
-> Article: <a href="https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-gen-z" target="_blank">https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-gen-z</a><br>
+> **Article**: <a href="https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-gen-z" target="_blank">https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-gen-z</a><br>
 > <br>
 > Explore the Gen Z phenomenon - digital natives shaping the future with their unique blend of online savvy, social consciousness, and a fresh perspective on global challenges. This article links to many useful resources to dive deeper into your understanding of our future workforce learners.
 > <details>
@@ -107,7 +112,7 @@
 > </details>
 
 ### *What makes Gen Z tick?*
-> Interactive article: <a href="https://www.mckinsey.com/quarterly/the-five-fifty/five-fifty-the-gen-z-equation" target="_blank">https://www.mckinsey.com/quarterly/the-five-fifty/five-fifty-the-gen-z-equation</a><br>
+> **Interactive article**: <a href="https://www.mckinsey.com/quarterly/the-five-fifty/five-fifty-the-gen-z-equation" target="_blank">https://www.mckinsey.com/quarterly/the-five-fifty/five-fifty-the-gen-z-equation</a><br>
 > <br>
 > Step your way through learning how Generation Z is coming into its own. Learn what differentiates these 13- to 27-year-olds—in the workplace and as consumers.
 
