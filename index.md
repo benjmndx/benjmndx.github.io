@@ -1,4 +1,4 @@
-![hero image of office learning](assets/hero.jpg)
+![hero image of office learning](assets/images/hero.jpg)
 ## Required reading
 
 [Link test](article1_tldr.html)
