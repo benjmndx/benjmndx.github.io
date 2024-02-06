@@ -1,3 +1,4 @@
+[![YouTube Video by Simon Sinek The Challenge with Gen Z](assets/images/sinek_tall2.png)](https://www.youtube.com/watch?v=GON5fNGoDPk)
 # The Challenge with Gen Z | Simon Sinek
 *https://www.youtube.com/watch?v=GON5fNGoDPk*
 
