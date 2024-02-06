@@ -1,5 +1,5 @@
 ![hero image of office learning](assets/images/hero.jpg)
-## Required reading
+# Required reading
 
 ### Generation Z Says They Work the Hardest, But Only When They Want To
 > Useful information that users should know, even when skimming content.<br><br>
@@ -10,13 +10,28 @@
 > <br>
 > The digital landscape is transforming with Gen Z's unique approach to technology, particularly their misunderstanding of traditional file systems, favoring search functions over hierarchical organization.  *If you want more detail about this, check out <a href="https://www.theverge.com/22684730/students-file-folder-directory-structure-education-gen-z" target="_blank">the article</a>* that inspired this one.
 > <details>
->  <summary><ins>TL;DR Summary</ins></summary>
+>  <summary><kbd> <br> Summary <br> </kbd></summary>
 >
 > 1. **Gen Z's Digital Fluency**: Gen Z's preference for search functions over navigating traditional file systems highlights a shift in digital literacy.
 > 2. **Impact on Education**: Educators are incorporating fundamental computer skills into STEM curriculums to address gaps in students' understanding of file management.
 > 3. **Changing Learning Environments**: The need to adapt teaching methods to accommodate Gen Z's tech habits, using analogies like a "laundry basket" of files to explain concepts.
 > 4. **Opportunity for Innovation**: L&D professionals have a unique opportunity to lead in developing educational strategies that integrate traditional file management skills with intuitive digital navigation.
 > 5. **Future Workforce Skills**: Emphasizing the importance of equipping students with a blend of structured and intuitive tech skills to meet the demands of future workplaces.
+> </details>
+
+### What is Gen Z?
+> <a href="https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-gen-z" target="_blank">https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-gen-z</a><br>
+> <br>
+> Explore the Gen Z phenomenon - digital natives shaping the future with their unique blend of online savvy, social consciousness, and a fresh perspective on global challenges. This article links to many useful resources to dive deeper into your understanding of our future workforce learners.
+> <details>
+>  <summary><kbd> <br> Summary <br> </kbd></summary>
+>
+> * Gen Z, born between 1996 and 2010, is characterized by their upbringing in the digital age, climate anxiety, and the aftermath of economic and health crises.
+> * Known as digital natives, Gen Z's daily life heavily revolves around online activities, with a significant presence on platforms like TikTok.
+> * They face unique mental health challenges, exacerbated by global unrest and economic instability, leading to a more pragmatic yet idealistic outlook.
+> * Gen Z values inclusivity, individual expression, and is highly concerned with social and environmental issues, expecting brands to align with these values.
+> * Their consumer behavior reflects a preference for access over ownership, a focus on experiences, and a demand for ethical and sustainable practices from companies.
+> * Fashion trends among Gen Z are marked by a mix of expressive, ever-changing styles and a resurgence of vintage and thrifted items, balancing their desire for uniqueness with sustainability concerns.
 > </details>
 
 
