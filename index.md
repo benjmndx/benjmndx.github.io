@@ -6,7 +6,7 @@
 > <a href="https://www.shrm.org/topics-tools/news/employee-relations/generation-z-says-work-hardest-want-to" target="_blank">https://www.shrm.org/topics-tools/news/employee-relations/generation-z-says-work-hardest-want-to</a>
 > <a href="" target="_blank">TL;DR</a>
 
-***
+---
 
 **Gen Z Kids Apparently Don't Understand How File Systems Work**
 - <a href="https://futurism.com/the-byte/gen-z-kids-file-systems" target="_blank">https://futurism.com/the-byte/gen-z-kids-file-systems</a>
