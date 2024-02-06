@@ -19,6 +19,25 @@
 > 5. **Future Workforce Skills**: Emphasizing the importance of equipping students with a blend of structured and intuitive tech skills to meet the demands of future workplaces.
 > </details>
 
+### A 16-Year-Old Explains 10 Things You Need to Know About Generation Z
+> <a href="https://www.shrm.org/topics-tools/news/hr-magazine/16-year-old-explains-10-things-need-to-know-generation-z" target="_blank">https://www.shrm.org/topics-tools/news/hr-magazine/16-year-old-explains-10-things-need-to-know-generation-z</a></a><br>
+> <br>
+> Discover how Generation Z, a generation shaped by significant global events and the digital age, is redefining the future of work, as written by a Gen Z member. According to this Gen Z.
+> <details>
+>  <summary><kbd> <br> Summary <br> </kbd></summary>
+>
+> 1. Gen Z is competitive, driven by sports culture, and values winning.
+> 2. Inherits skepticism and individuality from Gen X, differing from Millennials.
+> 3. Prioritizes financial stability in jobs over engagement.
+> 4. Entrepreneurial, inspired by technology and economic opportunities.
+> 5. Prefers face-to-face communication, valuing authenticity and personal connections.
+> 6. Craves genuine human interaction and appreciates in-person engagement in the workplace.
+> 7. Prefers working independently, challenging collaborative work environments.
+> 8. Extremely diverse, viewing diversity as a norm rather than an exception.
+> 9. Embraces change and is politically and socially aware from a young age.
+> 10. Desires a significant voice in their work and contributions, valuing creativity and innovation.
+> </details>
+
 ### What is Gen Z?
 > <a href="https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-gen-z" target="_blank">https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-gen-z</a><br>
 > <br>
@@ -26,12 +45,12 @@
 > <details>
 >  <summary><kbd> <br> Summary <br> </kbd></summary>
 >
-> * Gen Z, born between 1996 and 2010, is characterized by their upbringing in the digital age, climate anxiety, and the aftermath of economic and health crises.
-> * Known as digital natives, Gen Z's daily life heavily revolves around online activities, with a significant presence on platforms like TikTok.
-> * They face unique mental health challenges, exacerbated by global unrest and economic instability, leading to a more pragmatic yet idealistic outlook.
-> * Gen Z values inclusivity, individual expression, and is highly concerned with social and environmental issues, expecting brands to align with these values.
-> * Their consumer behavior reflects a preference for access over ownership, a focus on experiences, and a demand for ethical and sustainable practices from companies.
-> * Fashion trends among Gen Z are marked by a mix of expressive, ever-changing styles and a resurgence of vintage and thrifted items, balancing their desire for uniqueness with sustainability concerns.
+> 1. Gen Z, born between 1996 and 2010, is characterized by their upbringing in the digital age, climate anxiety, and the aftermath of economic and health crises.
+> 2. Known as digital natives, Gen Z's daily life heavily revolves around online activities, with a significant presence on platforms like TikTok.
+> 3. They face unique mental health challenges, exacerbated by global unrest and economic instability, leading to a more pragmatic yet idealistic outlook.
+> 4. Gen Z values inclusivity, individual expression, and is highly concerned with social and environmental issues, expecting brands to align with these values.
+> 5. Their consumer behavior reflects a preference for access over ownership, a focus on experiences, and a demand for ethical and sustainable practices from companies.
+> 6. Fashion trends among Gen Z are marked by a mix of expressive, ever-changing styles and a resurgence of vintage and thrifted items, balancing their desire for uniqueness with sustainability concerns.
 > </details>
 
 
