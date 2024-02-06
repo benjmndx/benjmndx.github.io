@@ -53,8 +53,23 @@
 
 # Views from Gen Z
 
+### *Gen Z in the workplace*
+> Article: <a href="https://www.kornferry.com/insights/featured-topics/future-of-work/gen-z-in-the-workplace" target="_blank">https://www.kornferry.com/insights/featured-topics/future-of-work/gen-z-in-the-workplace</a><br>
+> <br>
+> Let this Gen Z tell you the secrets to unlocking the potential of your Gen Z workforce by embracing their unique values—purpose, impact, and flexibility are key. Dive into the transformative insights that will shape the future of your workplace.
+> <details>
+>  <summary><kbd> <br> Summary <br> </kbd></summary>
+>
+> 1. **Value-Driven Work**: Gen Z seeks employment that aligns with their passions and allows them to contribute positively to society, preferring organizations with a clear purpose and impact.
+> 2. **Corporate Social Responsibility**:: This generation expects genuine social responsibility from businesses, valuing ethical practices both internally and in the wider world.
+> 3. **Work-Life Blend**:: Gen Z favors a seamless integration of work and personal life, utilizing technology and flexible working patterns to achieve this balance.
+> 4. **Salary Expectations**:: Despite their purpose-driven nature, financial stability is also a significant factor for Gen Z, influenced by economic uncertainties and the high costs of living and education.
+> 5. **Entrepreneurial Spirit**:: A notable proportion of Gen Z is drawn towards entrepreneurship, valuing independence and the ability to pursue personal passions alongside or instead of traditional employment.
+> 6. **Innovative Work Style**:s: Gen Z's independence, creativity, and willingness to challenge conventional work structures can drive innovation within organizations.
+> </details>
+
 ### *A 16-Year-Old Explains 10 Things You Need to Know About Generation Z*
-> Article: <a href="https://www.shrm.org/topics-tools/news/hr-magazine/16-year-old-explains-10-things-need-to-know-generation-z" target="_blank">https://www.shrm.org/topics-tools/news/hr-magazine/16-year-old-explains-10-things-need-to-know-generation-z</a></a><br>
+> Article: <a href="https://www.shrm.org/topics-tools/news/hr-magazine/16-year-old-explains-10-things-need-to-know-generation-z" target="_blank">https://www.shrm.org/topics-tools/news/hr-magazine/16-year-old-explains-10-things-need-to-know-generation-z</a><br>
 > <br>
 > Discover how Generation Z, a generation shaped by significant global events and the digital age, is redefining the future of work, as written by a Gen Z.
 > <details>
