@@ -1,12 +1,26 @@
 ## Required reading
 
-**Generation Z Says They Work the Hardest, But Only When They Want To**
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
+### Generation Z Says They Work the Hardest, But Only When They Want To
+> Useful information that users should know, even when skimming content.<br><br>
+> [<kbd> <br> Full article <br> </kbd>](https://link-url-here.org) [<kbd> <br> Summary <br> </kbd>](https://link-url-here.org)
+
+### Generation Z Says They Work the Hardest, But Only When They Want To
+> Useful information that users should know, even when skimming content.<br><br>
+> [<kbd> <br> Full article <br> </kbd>](https://link-url-here.org) [<kbd> <br> Summary <br> </kbd>](https://link-url-here.org)
+
+### Generation Z Says They Work the Hardest, But Only When They Want To
+> Useful information that users should know, even when skimming content.<br><br>
+> [<kbd> <br> Full article <br> </kbd>](https://link-url-here.org) [<kbd> <br> Summary <br> </kbd>](https://link-url-here.org)
+
+
+[![Button Example]](https://link-url-here.org)
+[![Button Click]](https://link-url-here.org)
+[![Button Hover]](https://link-url-here.org)
+---
+
 > <a href="https://www.shrm.org/topics-tools/news/employee-relations/generation-z-says-work-hardest-want-to" target="_blank">https://www.shrm.org/topics-tools/news/employee-relations/generation-z-says-work-hardest-want-to</a>
 > <a href="" target="_blank">TL;DR</a>
 
----
 
 **Gen Z Kids Apparently Don't Understand How File Systems Work**
 - <a href="https://futurism.com/the-byte/gen-z-kids-file-systems" target="_blank">https://futurism.com/the-byte/gen-z-kids-file-systems</a>
