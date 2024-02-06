@@ -9,14 +9,52 @@
 > Useful information that users should know, even when skimming content.<br><br>
 > [<kbd> <br> Full article <br> </kbd>](https://link-url-here.org) [<kbd> <br> Summary <br> </kbd>](https://link-url-here.org)
 
-### Generation Z Says They Work the Hardest, But Only When They Want To
-> Useful information that users should know, even when skimming content.
-> #### [Full article](https://link-url-here.org) | [Summary](https://link-url-here.org)
+### Gen Z Kids Apparently Don't Understand How File Systems Work!
+> https://futurism.com/the-byte/gen-z-kids-file-systems<br>
+> <br>
+> The digital landscape is transforming with Gen Z's unique approach to technology, particularly their misunderstanding of traditional file systems, favoring search functions over hierarchical organization.<br>
+> <details>
+>  <summary>Summary</summary>
+>  
+> 1. **Digital Natives\' Approach:** Students accustomed to search
+>    functions and cloud storage lack traditional understanding of file
+>    directories, impacting their ability to manage files in STEM
+>    applications.
+>
+> 2.  **Generational Shift:** The gap in digital literacy between students
+>    and educators, who are used to hierarchical file structures, is
+>    notable and growing.
+>
+> 3.  **Educational Challenges:** STEM educators are finding it necessary
+>    to teach computer fundamentals alongside their subject matter to
+>    bridge this gap.
+>
+> 4.  **Adapting Teaching Methods:** Some educators are incorporating
+>    basic computer skills, like directory structure understanding, into
+>    their curriculum, using various analogies and methods to convey
+>    these concepts.
+>
+> 5.  **Rethinking File Management:** There\'s a growing realization that
+>    traditional file management methods may not be intuitive for modern
+>    students, prompting a reevaluation of teaching and organizational
+>    strategies.
+>
+> 6.  **The Role of L&D Professionals:** This shift presents an
+>    opportunity for Learning and Development professionals to lead in
+>    creating and implementing new educational strategies that align with
+>    the digital behaviors and preferences of current and future
+>     generations.
+> </details>
+>
+> *If you want more detail about this, check out the article that inspired this one: https://www.theverge.com/22684730/students-file-folder-directory-structure-education-gen-z*
+> <br>
+> 
+
 
 
 [Link test](article1_tldr.html)
 
-
+<a href="https://www.theverge.com/22684730/students-file-folder-directory-structure-education-gen-z)" target="_blank">https://futurism.com/the-byte/gen-z-kids-file-systems</a>
 
 **Gen Z Kids Apparently Don't Understand How File Systems Work**
 - <a href="https://futurism.com/the-byte/gen-z-kids-file-systems" target="_blank">https://futurism.com/the-byte/gen-z-kids-file-systems</a>
