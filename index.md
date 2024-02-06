@@ -1,8 +1,8 @@
 ![hero image of office learning](assets/images/hero.jpg)
 #### On this page
-* [Required reading](Required-reading)
-* [Views from Gen Z](Views-from-Gen-Z)
-* [Recommended reading](Recommended-reading)
+* [Required reading](#required-reading)
+* [Views from Gen Z](#views-from-gen-z)
+* [Recommended reading](#recommended-reading)
 
 # Required reading
 
