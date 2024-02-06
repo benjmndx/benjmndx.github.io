@@ -77,3 +77,9 @@
 > 5. Their consumer behavior reflects a preference for access over ownership, a focus on experiences, and a demand for ethical and sustainable practices from companies.
 > 6. Fashion trends among Gen Z are marked by a mix of expressive, ever-changing styles and a resurgence of vintage and thrifted items, balancing their desire for uniqueness with sustainability concerns.
 > </details>
+
+### *What makes Gen Z tick?*
+> Interactive article: <a href="https://www.mckinsey.com/quarterly/the-five-fifty/five-fifty-the-gen-z-equation" target="_blank">https://www.mckinsey.com/quarterly/the-five-fifty/five-fifty-the-gen-z-equation</a><br>
+> <br>
+> Step your way through learning how Generation Z is coming into its own. Learn what differentiates these 13- to 27-year-olds—in the workplace and as consumers.
+
