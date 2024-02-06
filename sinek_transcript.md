@@ -1,7 +1,13 @@
 [![YouTube Video by Simon Sinek The Challenge with Gen Z](assets/images/sinek_tall2.png)](https://www.youtube.com/watch?v=GON5fNGoDPk)
-# The Challenge with Gen Z | Simon Sinek
 *https://www.youtube.com/watch?v=GON5fNGoDPk*
+# The Challenge with Gen Z | Simon Sinek
 
+#### On this page
+* [Transcript](#transcript)
+* [Key points](#key-points)
+
+
+## Transcript
 You are in a very difficult and uncomfortable position because I think leadership is more difficult now than it has ever been. You're dealing with human anxiety, uncertainty, ambition, and egos. Especially young people who think they know what they want and don't, who have certainty and are very outspoken, and do not mind going around their boss's boss to come to you. You know, so you're going to be dealing with a 19-year-old saying, "Why am I not given this?" and you're like, "I don't know, where do you work?"
 
 They have no fear of doing that; they also have no fear of quitting. And so we've seen this pattern where, remember, as a young generation, they're actually less equipped to deal with stress than previous generations. Anxiety is high, and they're very confrontation avoidant. So, for example, we've seen this where they feel like they deserve a raise and they don't know how to ask for one. Instead of asking for a raise, they'll just quit, and then sometimes with an email that says, "You don't value me, you don't pay me enough," you're like, "You just had to ask, we love you."
@@ -15,7 +21,7 @@ Some of the human skills that are underappreciated and undertrained in this day 
 But the point is, I don't fault them; they lack the skills. And so I think there's a huge opportunity for an organization like yours to teach these young people coping mechanisms, stress relief, the biggest one being how to ask for help. That is the single biggest thing that is lacking in every generation, which is, "I am struggling, can you help me?" Whether it's personal or professional, that is absolutely lacking. And so we do unhealthy things to help compensate, like social media and other things.
 
  
-### Key points
+## Key points
 1. **Young Employees' Boldness**: Young workers are not afraid to bypass hierarchy and directly approach top management with their demands, showing a lack of fear in questioning their roles or the recognition they believe they deserve.
 2. **Fear of Confrontation vs. Quitting**: Despite their boldness in some areas, many young employees avoid direct confrontation, particularly when it comes to negotiating raises or expressing dissatisfaction. Instead of addressing issues, they may choose to quit.
 3. **Lack of Coping Mechanisms**: The younger generation is less equipped to handle stress compared to their predecessors, leading to high levels of anxiety and a tendency to avoid confrontation.
