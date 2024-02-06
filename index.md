@@ -20,7 +20,6 @@
 > 5. **Future Workforce Skills**: Emphasizing the importance of equipping students with a blend of structured and intuitive tech skills to meet the demands of future workplaces.
 > </details>
 
-<br>
 
 ### *Generation Z Says They Work the Hardest, But Only When They Want To*
 > Article: <a href="https://www.shrm.org/topics-tools/news/employee-relations/generation-z-says-work-hardest-want-to" target="_blank">https://www.shrm.org/topics-tools/news/employee-relations/generation-z-says-work-hardest-want-to</a><br>
@@ -41,7 +40,7 @@
 
 # Views from Gen Z
 
-### A 16-Year-Old Explains 10 Things You Need to Know About Generation Z
+### *A 16-Year-Old Explains 10 Things You Need to Know About Generation Z*
 > Article: <a href="https://www.shrm.org/topics-tools/news/hr-magazine/16-year-old-explains-10-things-need-to-know-generation-z" target="_blank">https://www.shrm.org/topics-tools/news/hr-magazine/16-year-old-explains-10-things-need-to-know-generation-z</a></a><br>
 > <br>
 > Discover how Generation Z, a generation shaped by significant global events and the digital age, is redefining the future of work, as written by a Gen Z.
@@ -61,11 +60,10 @@
 > </details>
 
 <br>
-<br>
 
 # Recommended reading
 
-### What is Gen Z?
+### *What is Gen Z?*
 > Article: <a href="https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-gen-z" target="_blank">https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-gen-z</a><br>
 > <br>
 > Explore the Gen Z phenomenon - digital natives shaping the future with their unique blend of online savvy, social consciousness, and a fresh perspective on global challenges. This article links to many useful resources to dive deeper into your understanding of our future workforce learners.
