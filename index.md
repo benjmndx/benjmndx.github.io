@@ -1,12 +1,8 @@
 ![hero image of office learning](assets/images/hero.jpg)
 # Required reading
 
-### Generation Z Says They Work the Hardest, But Only When They Want To
-> Useful information that users should know, even when skimming content.<br><br>
-> [<kbd> <br> Full article <br> </kbd>](https://link-url-here.org) [<kbd> <br> Summary <br> </kbd>](https://link-url-here.org)
-
 ### Gen Z Kids Apparently Don't Understand How File Systems Work!
-> <a href="https://futurism.com/the-byte/gen-z-kids-file-systems" target="_blank">https://futurism.com/the-byte/gen-z-kids-file-systems</a><br>
+> Article: <a href="https://futurism.com/the-byte/gen-z-kids-file-systems" target="_blank">https://futurism.com/the-byte/gen-z-kids-file-systems</a><br>
 > <br>
 > The digital landscape is transforming with Gen Z's unique approach to technology, particularly their misunderstanding of traditional file systems, favoring search functions over hierarchical organization.  *If you want more detail about this, check out <a href="https://www.theverge.com/22684730/students-file-folder-directory-structure-education-gen-z" target="_blank">the article</a>* that inspired this one.
 > <details>
@@ -19,10 +15,29 @@
 > 5. **Future Workforce Skills**: Emphasizing the importance of equipping students with a blend of structured and intuitive tech skills to meet the demands of future workplaces.
 > </details>
 
-### A 16-Year-Old Explains 10 Things You Need to Know About Generation Z
-> <a href="https://www.shrm.org/topics-tools/news/hr-magazine/16-year-old-explains-10-things-need-to-know-generation-z" target="_blank">https://www.shrm.org/topics-tools/news/hr-magazine/16-year-old-explains-10-things-need-to-know-generation-z</a></a><br>
+<br>
+
+### Generation Z Says They Work the Hardest, But Only When They Want To
+> Article: <a href="https://www.shrm.org/topics-tools/news/employee-relations/generation-z-says-work-hardest-want-to" target="_blank">https://www.shrm.org/topics-tools/news/employee-relations/generation-z-says-work-hardest-want-to</a><br>
 > <br>
-> Discover how Generation Z, a generation shaped by significant global events and the digital age, is redefining the future of work, as written by a Gen Z member. According to this Gen Z.
+> Discover how the 'always connected' generation views themselves as the most hardworking generation and how they are reshaping workplace expectations with a blend of hard work, digital savvy, and a non-negotiable demand for work-life balance.
+> <details>
+>  <summary><kbd> <br> Summary <br> </kbd></summary>
+>
+> 1. Generation Z are committed, but their commitment comes with a catch: they refuse to work outside their preferred times.
+> 2. Despite being digital natives, Gen Z values face-to-face interactions at work, challenging the stereotype of the antisocial screen addict.
+> 3. The study, based on a global survey of over 3,000 Gen Z members, reveals their high self-assessment of work ethic, their unique work preferences, and the significant role of managers in addressing their work-related anxieties.
+> 4. Gen Z's work values include a demand for control over their schedules, a rejection of back-to-back shifts, and a preference for direct communication with their teams and managers.
+> 5. Their confidence is juxtaposed with anxiety about work expectations and success, with a notable portion feeling unprepared by their education for the workplace.
+> 6. This generation's blend of digital fluency, demand for flexibility, and work-related anxieties presents a unique challenge and opportunity for L&D professionals to tailor strategies that effectively engage and support them.
+> </details>
+
+<br>
+
+### A 16-Year-Old Explains 10 Things You Need to Know About Generation Z
+> Article: <a href="https://www.shrm.org/topics-tools/news/hr-magazine/16-year-old-explains-10-things-need-to-know-generation-z" target="_blank">https://www.shrm.org/topics-tools/news/hr-magazine/16-year-old-explains-10-things-need-to-know-generation-z</a></a><br>
+> <br>
+> Discover how Generation Z, a generation shaped by significant global events and the digital age, is redefining the future of work, as written by a Gen Z.
 > <details>
 >  <summary><kbd> <br> Summary <br> </kbd></summary>
 >
@@ -39,7 +54,7 @@
 > </details>
 
 ### What is Gen Z?
-> <a href="https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-gen-z" target="_blank">https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-gen-z</a><br>
+> Article: <a href="https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-gen-z" target="_blank">https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-gen-z</a><br>
 > <br>
 > Explore the Gen Z phenomenon - digital natives shaping the future with their unique blend of online savvy, social consciousness, and a fresh perspective on global challenges. This article links to many useful resources to dive deeper into your understanding of our future workforce learners.
 > <details>
