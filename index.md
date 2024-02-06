@@ -10,7 +10,7 @@
 
 ### Generation Z Says They Work the Hardest, But Only When They Want To
 > Useful information that users should know, even when skimming content.<br><br>
-> [<kbd> <br> Full article <br> </kbd>](https://link-url-here.org) [<kbd> <br> Summary <br> </kbd>](https://link-url-here.org)
+> ###### [Full article](https://link-url-here.org) | [Summary](https://link-url-here.org)
 
 
 [![Button Example]](https://link-url-here.org)
