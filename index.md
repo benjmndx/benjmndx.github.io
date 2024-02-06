@@ -1,4 +1,8 @@
+![hero image of office learning](docs/hero.jpg)
 ## Required reading
+
+[Link test](article1_tldr.html)
+
 
 ### Generation Z Says They Work the Hardest, But Only When They Want To
 > Useful information that users should know, even when skimming content.<br><br>
