@@ -67,6 +67,23 @@
 
 # Views from Gen Z
 
+### *Move Over, Millennials; Generation Z Is Here*
+> **Article**: <br>
+> <a href="https://www.shrm.org/mena/topics-tools/news/inclusion-equity-diversity/move-millennials--generation-z" target="_blank">https://www.shrm.org/mena/topics-tools/news/inclusion-equity-diversity/move-millennials--generation-z</a><br>
+> <br>
+> Let this Gen Z tell you the secrets to unlocking the potential of your Gen Z workforce by embracing their unique values—purpose, impact, and flexibility are key. Dive into the transformative insights that will shape the future of your workplace.
+> <details>
+>  <summary><kbd> <br> Summary <br> </kbd></summary>
+>
+> 1. **Defining Characteristics**: Gen Z, born between mid-1990s to early 2000s, is marked by pragmatism, independence, and digital nativity, shaped by tough-love parenting and economic downturns.
+> 2. **Workplace Expectations**: Unlike Millennials seeking purpose, Gen Z prioritizes financial stability and job security, desiring workplaces that value individual talents and offer clear advancement opportunities.
+> 3. **Impact on Workplaces**: As digital natives, Gen Z's technological fluency and DIY attitude will drive workplace innovation and efficiency, challenging traditional hierarchies.
+> 4. **Communication Preferences**: Surprisingly, 84% prefer face-to-face communication, valuing transparency and honesty in workplace interactions.
+> 5. **Career Aspirations**: Gen Z is motivated by opportunities for entrepreneurship within their roles, not deterred by the concept of 'side hustles' alongside their main jobs.
+> 6. **Generational Dynamics**: Recognizing Gen Z's unique qualities and avoiding treating them like Millennials is crucial for successful integration and retention in workplaces.
+> </details>
+
+
 ### *Gen Z in the workplace*
 > **Article**: <br>
 > <a href="https://www.kornferry.com/insights/featured-topics/future-of-work/gen-z-in-the-workplace" target="_blank">https://www.kornferry.com/insights/featured-topics/future-of-work/gen-z-in-the-workplace</a><br>
@@ -82,6 +99,7 @@
 > 5. **Entrepreneurial Spirit**:: A notable proportion of Gen Z is drawn towards entrepreneurship, valuing independence and the ability to pursue personal passions alongside or instead of traditional employment.
 > 6. **Innovative Work Style**:s: Gen Z's independence, creativity, and willingness to challenge conventional work structures can drive innovation within organizations.
 > </details>
+
 
 ### *A 16-Year-Old Explains 10 Things You Need to Know About Generation Z*
 > **Article**: <br>
