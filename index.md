@@ -6,7 +6,7 @@
 
 <br>
 
-> ℹ️ **Note**  
+> 💡 **Tip**  
 > Most of the articles have a summary dropdown that you can select if you don't have time to read the full article or would simply like a preview of what the article is about.
 
 <br>
