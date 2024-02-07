@@ -2,4 +2,4 @@
 title: Understanding Gen Z 
 
 # Build settings md: kramdown/GFM
-markdown: kramdown
+markdown: GFM
