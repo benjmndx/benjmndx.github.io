@@ -13,7 +13,7 @@
 
 # Content to review before the event
 
-### *L&D pros, do you know how Gen Z wants to learn?*
+### *1. L&D pros, do you know how Gen Z wants to learn?*
 > ℹ️ **Infographic**:<br>
 > <a href="https://learning.linkedin.com/content/dam/me/learning/en-us/pdfs/LinkedIn-L&D-Gen-Z-Infographic-Learner-Engagement-Playbook.pdf" target="_blank">https://learning.linkedin.com/content/dam/me/learning/en-us/pdfs/LinkedIn-L&D-Gen-Z-Infographic-Learner-Engagement-Playbook.pdf</a><br>
 > <br>
@@ -31,7 +31,7 @@
 
 <br>
 
-### *Gen Z Kids Apparently Don't Understand How File Systems Work!*
+### *2. Gen Z Kids Apparently Don't Understand How File Systems Work!*
 > 📘 **Article**: <br>
 > <a href="https://futurism.com/the-byte/gen-z-kids-file-systems" target="_blank">https://futurism.com/the-byte/gen-z-kids-file-systems</a><br>
 > <br>
@@ -50,7 +50,7 @@
 
 <br>
 
-### *L&D for Gen Z: Meeting the Needs of the Newest Generation*
+### *3. L&D for Gen Z: Meeting the Needs of the Newest Generation*
 > 📘 **Article**: <br>
 > <a href="https://trainingindustry.com/articles/content-development/ld-for-gen-z-meeting-the-needs-of-the-newest-generation/" target="_blank">https://trainingindustry.com/articles/content-development/ld-for-gen-z-meeting-the-needs-of-the-newest-generation/</a><br>
 > <br>
@@ -67,7 +67,7 @@
 
 <br>
 
-### *Teaching Gen Alpha*
+### *4. Teaching Gen Alpha*
 > 📹 **Instagram reel**:<br>
 > <a href="https://www.instagram.com/reel/C1klqSgsvLg/?igsh=aXQwYWxlZ3MzOTc5" target="_blank">https://www.instagram.com/reel/C1klqSgsvLg/?igsh=aXQwYWxlZ3MzOTc5</a><br>
 > <br>
