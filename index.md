@@ -37,7 +37,7 @@
 > <br>
 > The digital landscape is transforming with Gen Z's unique approach to technology, particularly their misunderstanding of traditional file systems, favoring search functions over hierarchical organization.<br>
 > <br>
-> *If you want further detail, check out <a href="https://www.theverge.com/22684730/students-file-folder-directory-structure-education-gen-z" target="_blank">the article</a>* that inspired this one.*
+> *If you want further detail, check out <a href="https://www.theverge.com/22684730/students-file-folder-directory-structure-education-gen-z" target="_blank">the article</a> that inspired this one.*
 > <details>
 >  <summary><kbd> <br> Summary <br> </kbd></summary>
 >
