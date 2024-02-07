@@ -14,14 +14,15 @@
 # Content to review before the event
 
 ### *Teaching Gen Alpha*
-> **Instagram reel**:<br>
+> :video_camera: **Instagram reel**:<br>
 > <a href="https://www.instagram.com/reel/C1klqSgsvLg/?igsh=aXQwYWxlZ3MzOTc5" target="_blank">https://www.instagram.com/reel/C1klqSgsvLg/?igsh=aXQwYWxlZ3MzOTc5</a><br>
 > <br>
 >  Cassandra Chamberlin, a teacher of Gen Alpha, provide us with an unofficial, experiential perpspective into the upcoming generation. What can we take from the lessons of Gen Z to prepare for the next cohort?
 
+<br>
 
 ### *L&D pros, do you know how Gen Z wants to learn?*
-> **Inforgraphic**:<br>
+> :information_source: **Infographic**:<br>
 > <a href="https://learning.linkedin.com/content/dam/me/learning/en-us/pdfs/LinkedIn-L&D-Gen-Z-Infographic-Learner-Engagement-Playbook.pdf" target="_blank">https://learning.linkedin.com/content/dam/me/learning/en-us/pdfs/LinkedIn-L&D-Gen-Z-Infographic-Learner-Engagement-Playbook.pdf</a><br>
 > <br>
 >  LinkedIn Learning asked 2,000 Gen Z workers what they want from a learning program. Then, they asked 400 L&D professionals what they thought Gen Z really wants. As you might imagine, they were not perfectly aligned.
@@ -36,10 +37,10 @@
 > 6. **Adaptation by L&D**: A majority of L&D professionals acknowledge the need to adjust their programs to better accommodate Gen Z's preferences, with emphasis on on-demand learning, customized paths, and support for self-directed learning.
 > </details>
 
-
+<br>
 
 ### *Gen Z Kids Apparently Don't Understand How File Systems Work!*
-> **Article**: <br>
+> :blue_book: **Article**: <br>
 > <a href="https://futurism.com/the-byte/gen-z-kids-file-systems" target="_blank">https://futurism.com/the-byte/gen-z-kids-file-systems</a><br>
 > <br>
 > The digital landscape is transforming with Gen Z's unique approach to technology, particularly their misunderstanding of traditional file systems, favoring search functions over hierarchical organization.<br>
@@ -55,8 +56,10 @@
 > 5. **Future Workforce Skills**: Emphasizing the importance of equipping students with a blend of structured and intuitive tech skills to meet the demands of future workplaces.
 > </details>
 
+<br>
+
 ### *L&D for Gen Z: Meeting the Needs of the Newest Generation*
-> **Article**: <br>
+> :blue_book: **Article**: <br>
 > <a href="https://trainingindustry.com/articles/content-development/ld-for-gen-z-meeting-the-needs-of-the-newest-generation/" target="_blank">https://trainingindustry.com/articles/content-development/ld-for-gen-z-meeting-the-needs-of-the-newest-generation/</a><br>
 > <br>
 > Dive into the Future of Learning: How Gen Z is Redefining Workplace Training and Development. This article hints at the need for organizations to rethink traditional training methods and adopt innovative strategies.
@@ -75,7 +78,7 @@
 # Views from Gen Z
 
 ### *Move Over, Millennials; Generation Z Is Here*
-> **Article**: <br>
+> :blue_book: **Article**: <br>
 > <a href="https://www.shrm.org/mena/topics-tools/news/inclusion-equity-diversity/move-millennials--generation-z" target="_blank">https://www.shrm.org/mena/topics-tools/news/inclusion-equity-diversity/move-millennials--generation-z</a><br>
 > <br>
 > Gen Z'er Jonah Stillman and his father, a Millennial, explain who Gen Z are, what has shaped them, and what they  expect from work.
@@ -90,11 +93,10 @@
 > 6. **Generational Dynamics**: Recognizing Gen Z's unique qualities and avoiding treating them like Millennials is crucial for successful integration and retention in workplaces.
 > </details>
 
-
-
+<br>
 
 ### *Gen Z in the workplace*
-> **Article**: <br>
+> :blue_book: **Article**: <br>
 > <a href="https://www.kornferry.com/insights/featured-topics/future-of-work/gen-z-in-the-workplace" target="_blank">https://www.kornferry.com/insights/featured-topics/future-of-work/gen-z-in-the-workplace</a><br>
 > <br>
 > Let this Gen Z tell you the secrets to unlocking the potential of your Gen Z workforce by embracing their unique values—purpose, impact, and flexibility are key. Dive into the transformative insights that will shape the future of your workplace.
@@ -102,16 +104,18 @@
 >  <summary><kbd> <br> Summary <br> </kbd></summary>
 >
 > 1. **Value-Driven Work**: Gen Z seeks employment that aligns with their passions and allows them to contribute positively to society, preferring organizations with a clear purpose and impact.
-> 2. **Corporate Social Responsibility**:: This generation expects genuine social responsibility from businesses, valuing ethical practices both internally and in the wider world.
-> 3. **Work-Life Blend**:: Gen Z favors a seamless integration of work and personal life, utilizing technology and flexible working patterns to achieve this balance.
-> 4. **Salary Expectations**:: Despite their purpose-driven nature, financial stability is also a significant factor for Gen Z, influenced by economic uncertainties and the high costs of living and education.
-> 5. **Entrepreneurial Spirit**:: A notable proportion of Gen Z is drawn towards entrepreneurship, valuing independence and the ability to pursue personal passions alongside or instead of traditional employment.
-> 6. **Innovative Work Style**:s: Gen Z's independence, creativity, and willingness to challenge conventional work structures can drive innovation within organizations.
+> 2. **Corporate Social Responsibility**: This generation expects genuine social responsibility from businesses, valuing ethical practices both internally and in the wider world.
+> 3. **Work-Life Blend**: Gen Z favors a seamless integration of work and personal life, utilizing technology and flexible working patterns to achieve this balance.
+> 4. **Salary Expectations**: Despite their purpose-driven nature, financial stability is also a significant factor for Gen Z, influenced by economic uncertainties and the high costs of living and education.
+> 5. **Entrepreneurial Spirit**: A notable proportion of Gen Z is drawn towards entrepreneurship, valuing independence and the ability to pursue personal passions alongside or instead of traditional employment.
+> 6. **Innovative Work Style**: Gen Z's independence, creativity, and willingness to challenge conventional work structures can drive innovation within organizations.
 > </details>
 
 
+<br>
+
 ### *A 16-Year-Old Explains 10 Things You Need to Know About Generation Z*
-> **Article**: <br>
+> :blue_book: **Article**: <br>
 > <a href="https://www.shrm.org/topics-tools/news/hr-magazine/16-year-old-explains-10-things-need-to-know-generation-z" target="_blank">https://www.shrm.org/topics-tools/news/hr-magazine/16-year-old-explains-10-things-need-to-know-generation-z</a><br>
 > <br>
 > Discover how Generation Z, a generation shaped by significant global events and the digital age, is redefining the future of work, as written by a Gen Z.
@@ -135,7 +139,7 @@
 # Recommended reading
 
 ### *What is Gen Z?*
-> **Article**: <br>
+> :blue_book: **Article**: <br>
 > <a href="https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-gen-z" target="_blank">https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-gen-z</a><br>
 > <br>
 > Explore the Gen Z phenomenon - digital natives shaping the future with their unique blend of online savvy, social consciousness, and a fresh perspective on global challenges. This article links to many useful resources to dive deeper into your understanding of our future workforce learners.
@@ -150,9 +154,10 @@
 > 6. Fashion trends among Gen Z are marked by a mix of expressive, ever-changing styles and a resurgence of vintage and thrifted items, balancing their desire for uniqueness with sustainability concerns.
 > </details>
 
+<br>
 
 ### *Generation Z Says They Work the Hardest, But Only When They Want To*
-> **Article**: <br>
+> :blue_book: **Article**: <br>
 > <a href="https://www.shrm.org/topics-tools/news/employee-relations/generation-z-says-work-hardest-want-to" target="_blank">https://www.shrm.org/topics-tools/news/employee-relations/generation-z-says-work-hardest-want-to</a><br>
 > <br>
 > Discover how the 'always connected' generation views themselves as the most hardworking generation and how they are reshaping workplace expectations with a blend of hard work, digital savvy, and a non-negotiable demand for work-life balance.
@@ -167,9 +172,10 @@
 > 6. This generation's blend of digital fluency, demand for flexibility, and work-related anxieties presents a unique challenge and opportunity for L&D professionals to tailor strategies that effectively engage and support them.
 > </details>
 
+<br>
 
 ### *What makes Gen Z tick?*
-> **Interactive article**: <br>
+> :point_up_2: **Interactive article**: <br>
 > <a href="https://www.mckinsey.com/quarterly/the-five-fifty/five-fifty-the-gen-z-equation" target="_blank">https://www.mckinsey.com/quarterly/the-five-fifty/five-fifty-the-gen-z-equation</a><br>
 > <br>
 > Step your way through learning how Generation Z is coming into its own. Learn what differentiates these 13- to 27-year-olds—in the workplace and as consumers.
