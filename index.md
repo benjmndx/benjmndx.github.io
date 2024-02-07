@@ -1,6 +1,6 @@
 ![hero image of office learning](assets/images/hero.jpg)
 #### On this page
-* [Required reading](#required-reading)
+* [Content to review before the event](#content-to-review-before-the-event)
 * [Views from Gen Z](#views-from-gen-z)
 * [Recommended reading](#recommended-reading)
 
@@ -11,7 +11,14 @@
 > read the full article or would simply like a preview of what the article is about.
 
 
-# Required reading
+# Content to review before the event
+
+### *Teaching Gen Alpha*
+> **Instagram reel**:<br>
+> <a href="https://www.instagram.com/reel/C1klqSgsvLg/?igsh=aXQwYWxlZ3MzOTc5" target="_blank">https://www.instagram.com/reel/C1klqSgsvLg/?igsh=aXQwYWxlZ3MzOTc5</a><br>
+> <br>
+>  Cassandra Chamberlin, a teacher of Gen Alpha, provide us with an unofficial, experiential perpspective into the upcoming generation. What can we take from the lessons of Gen Z to prepare for the next cohort?
+
 
 ### *L&D pros, do you know how Gen Z wants to learn?*
 > **Inforgraphic**:<br>
@@ -71,7 +78,7 @@
 > **Article**: <br>
 > <a href="https://www.shrm.org/mena/topics-tools/news/inclusion-equity-diversity/move-millennials--generation-z" target="_blank">https://www.shrm.org/mena/topics-tools/news/inclusion-equity-diversity/move-millennials--generation-z</a><br>
 > <br>
-> Let this Gen Z tell you the secrets to unlocking the potential of your Gen Z workforce by embracing their unique values—purpose, impact, and flexibility are key. Dive into the transformative insights that will shape the future of your workplace.
+> Gen Z'er Jonah Stillman and his father, a Millennial, explain who Gen Z are, what has shaped them, and what they  expect from work.
 > <details>
 >  <summary><kbd> <br> Summary <br> </kbd></summary>
 >
