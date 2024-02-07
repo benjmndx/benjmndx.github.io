@@ -1,5 +1,5 @@
 # Site settings
-title: &nbsp;
+title:   
 
 # Build settings md: kramdown/GFM
 markdown: GFM
