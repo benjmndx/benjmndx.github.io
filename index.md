@@ -10,6 +10,9 @@
 > Each of the articles have a summary dropdown that you can select if you don't have time to <br>
 > read the full article or would simply like a preview of what the article is about.
 
+> **Note**
+> This is a note
+
 
 # Content to review before the event
 
