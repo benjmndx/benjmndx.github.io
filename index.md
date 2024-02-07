@@ -4,19 +4,14 @@
 * [Views from Gen Z](#views-from-gen-z)
 * [Recommended reading](#recommended-reading)
 
-> [!TIP]  
-> Each of the articles have a summary dropdown that you can select if you don't have time to read the full article or would simply like a preview of what the article is about.
+<br>
 
-
-# Content to review before the event
-
-### *Teaching Gen Alpha*
-> 📹 **Instagram reel**:<br>
-> <a href="https://www.instagram.com/reel/C1klqSgsvLg/?igsh=aXQwYWxlZ3MzOTc5" target="_blank">https://www.instagram.com/reel/C1klqSgsvLg/?igsh=aXQwYWxlZ3MzOTc5</a><br>
-> <br>
->  Cassandra Chamberlin, a teacher of Gen Alpha, provide us with an unofficial, experiential perpspective into the upcoming generation. What can we take from the lessons of Gen Z to prepare for the next cohort?
+> ℹ️ **Note**  
+> Most of the articles have a summary dropdown that you can select if you don't have time to read the full article or would simply like a preview of what the article is about.
 
 <br>
+
+# Content to review before the event
 
 ### *L&D pros, do you know how Gen Z wants to learn?*
 > ℹ️ **Infographic**:<br>
@@ -69,6 +64,14 @@
 > 4. Addressing Gen Z's heightened stress levels and desire for meaningful work through personalized learning paths.
 > 5. Strategies for engaging Gen Z employees to foster retention and organizational growth.
 > </details>
+
+<br>
+
+### *Teaching Gen Alpha*
+> 📹 **Instagram reel**:<br>
+> <a href="https://www.instagram.com/reel/C1klqSgsvLg/?igsh=aXQwYWxlZ3MzOTc5" target="_blank">https://www.instagram.com/reel/C1klqSgsvLg/?igsh=aXQwYWxlZ3MzOTc5</a><br>
+> <br>
+>  Cassandra Chamberlin, a teacher of Gen Alpha, provide us with an unofficial, experiential perpspective into the upcoming generation. What can we take from the lessons of Gen Z to prepare for the next cohort?
 
 <br>
 
