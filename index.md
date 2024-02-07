@@ -84,6 +84,8 @@
 > </details>
 
 
+
+
 ### *Gen Z in the workplace*
 > **Article**: <br>
 > <a href="https://www.kornferry.com/insights/featured-topics/future-of-work/gen-z-in-the-workplace" target="_blank">https://www.kornferry.com/insights/featured-topics/future-of-work/gen-z-in-the-workplace</a><br>
@@ -141,6 +143,7 @@
 > 6. Fashion trends among Gen Z are marked by a mix of expressive, ever-changing styles and a resurgence of vintage and thrifted items, balancing their desire for uniqueness with sustainability concerns.
 > </details>
 
+
 ### *Generation Z Says They Work the Hardest, But Only When They Want To*
 > **Article**: <br>
 > <a href="https://www.shrm.org/topics-tools/news/employee-relations/generation-z-says-work-hardest-want-to" target="_blank">https://www.shrm.org/topics-tools/news/employee-relations/generation-z-says-work-hardest-want-to</a><br>
@@ -156,6 +159,7 @@
 > 5. Their confidence is juxtaposed with anxiety about work expectations and success, with a notable portion feeling unprepared by their education for the workplace.
 > 6. This generation's blend of digital fluency, demand for flexibility, and work-related anxieties presents a unique challenge and opportunity for L&D professionals to tailor strategies that effectively engage and support them.
 > </details>
+
 
 ### *What makes Gen Z tick?*
 > **Interactive article**: <br>
