@@ -1,8 +1,9 @@
 ![hero image of office learning](assets/images/hero.jpg)
 #### On this page
 * [Content to review before the event](#content-to-review-before-the-event)
-* [Views from Gen Z](#views-from-gen-z)
 * [Recommended reading](#recommended-reading)
+  * [*Views from Gen Z*](#views-from-gen-z)
+  * [*Further reading*](#further-reading) 
 
 <br>
 
@@ -13,20 +14,18 @@
 
 # Content to review before the event
 
-### *1. L&D pros, do you know how Gen Z wants to learn?*
-> ℹ️ **Infographic**:<br>
-> <a href="https://learning.linkedin.com/content/dam/me/learning/en-us/pdfs/LinkedIn-L&D-Gen-Z-Infographic-Learner-Engagement-Playbook.pdf" target="_blank">https://learning.linkedin.com/content/dam/me/learning/en-us/pdfs/LinkedIn-L&D-Gen-Z-Infographic-Learner-Engagement-Playbook.pdf</a><br>
+### *1. 1 in 3 Long-Time Educators Say Gen Z Is More Difficult To Work With Than Previous Generations*
+> 📘 **Article**:<br>
+> <a href="https://www.intelligent.com/1-in-3-long-time-educators-say-gen-z-is-more-difficult-to-work-with-than-previous-generations" target="_blank">https://www.intelligent.com/1-in-3-long-time-educators-say-gen-z-is-more-difficult-to-work-with-than-previous-generations</a><br>
 > <br>
->  LinkedIn Learning asked 2,000 Gen Z workers what they want from a learning program. Then, they asked 400 L&D professionals what they thought Gen Z really wants. As you might imagine, they were not perfectly aligned.
+>  A recent survey reveals a third of experienced educators find Gen Z more challenging in the classroom, sparking debates on readiness for the workforce, teaching adaptations, and the balancing act between innovation and traditional values.
 > <details>
 >  <summary><kbd> <br> Summary <br> </kbd></summary>
 >
-> 1. **Monetary Motivation**: A significant portion of Gen Z is driven to learn for salary increases or bonuses, a factor underestimated by many L&D professionals.
-> 2. **Career Advancement**: Gen Z prioritizes learning for promotion opportunities, suggesting a focus on profiling successful career advancements could inspire learning.
-> 3. **Overcoming Fear**: Addressing Gen Z's fear of making a bad impression through courses on soft skills can enhance their learning experience.
-> 4. **Skill Preferences**: While Gen Z values hard skills, L&D professionals believe soft skills require more emphasis, indicating a need to highlight the importance of both.
-> 5. **Learning Independence**: Gen Z prefers a self-directed approach to learning, contrasting with L&D professionals' lesser focus on offering such autonomy.
-> 6. **Adaptation by L&D**: A majority of L&D professionals acknowledge the need to adjust their programs to better accommodate Gen Z's preferences, with emphasis on on-demand learning, customized paths, and support for self-directed learning.
+> - 32% of educators with over a decade of experience find Gen Z harder to teach, citing issues like lack of motivation and poor productivity.
+> - Concerns include Gen Z's readiness for the workforce, with 31% of educators doubting their preparedness, primarily due to work ethic, emotional intelligence, and communication skills.
+> - Despite challenges, positives noted include Gen Z's tech-savviness, fresh perspectives, and innovative approach to learning and work.
+> - The survey highlights a need for L&D professionals to adapt strategies to harness Gen Z's unique strengths while addressing their developmental needs.
 > </details>
 
 <br>
@@ -75,7 +74,9 @@
 
 <br>
 
-# Views from Gen Z
+# Recommended reading
+
+## Views from Gen Z
 
 ### *Move Over, Millennials; Generation Z Is Here*
 > 📘 **Article**: <br>
@@ -136,7 +137,7 @@
 
 <br>
 
-# Recommended reading
+## Further reading
 
 ### *What is Gen Z?*
 > 📘 **Article**: <br>
@@ -170,6 +171,24 @@
 > 4. Gen Z's work values include a demand for control over their schedules, a rejection of back-to-back shifts, and a preference for direct communication with their teams and managers.
 > 5. Their confidence is juxtaposed with anxiety about work expectations and success, with a notable portion feeling unprepared by their education for the workplace.
 > 6. This generation's blend of digital fluency, demand for flexibility, and work-related anxieties presents a unique challenge and opportunity for L&D professionals to tailor strategies that effectively engage and support them.
+> </details>
+
+<br>
+
+### L&D pros, do you know how Gen Z wants to learn?*
+> ℹ️ **Infographic**:<br>
+> <a href="https://learning.linkedin.com/content/dam/me/learning/en-us/pdfs/LinkedIn-L&D-Gen-Z-Infographic-Learner-Engagement-Playbook.pdf" target="_blank">https://learning.linkedin.com/content/dam/me/learning/en-us/pdfs/LinkedIn-L&D-Gen-Z-Infographic-Learner-Engagement-Playbook.pdf</a><br>
+> <br>
+>  LinkedIn Learning asked 2,000 Gen Z workers what they want from a learning program. Then, they asked 400 L&D professionals what they thought Gen Z really wants. As you might imagine, they were not perfectly aligned.
+> <details>
+>  <summary><kbd> <br> Summary <br> </kbd></summary>
+>
+> 1. **Monetary Motivation**: A significant portion of Gen Z is driven to learn for salary increases or bonuses, a factor underestimated by many L&D professionals.
+> 2. **Career Advancement**: Gen Z prioritizes learning for promotion opportunities, suggesting a focus on profiling successful career advancements could inspire learning.
+> 3. **Overcoming Fear**: Addressing Gen Z's fear of making a bad impression through courses on soft skills can enhance their learning experience.
+> 4. **Skill Preferences**: While Gen Z values hard skills, L&D professionals believe soft skills require more emphasis, indicating a need to highlight the importance of both.
+> 5. **Learning Independence**: Gen Z prefers a self-directed approach to learning, contrasting with L&D professionals' lesser focus on offering such autonomy.
+> 6. **Adaptation by L&D**: A majority of L&D professionals acknowledge the need to adjust their programs to better accommodate Gen Z's preferences, with emphasis on on-demand learning, customized paths, and support for self-directed learning.
 > </details>
 
 <br>
